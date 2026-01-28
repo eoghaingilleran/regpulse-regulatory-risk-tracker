@@ -1,1 +1,11 @@
+risk_category,description,example_keywords
+AML/CTF,Anti-money laundering and counter-terrorist financing,aml|ctf|kyc|suspicious|sanctions|beneficial owner
+Conduct Risk,Risk related to customer outcomes and conduct,consumer|complaint|mis-selling|fair treatment|conduct
+Operational Risk,Risk from processes, systems, people, or external events,controls|incident|business continuity|outsourcing|operational
+Prudential/Capital,Capital adequacy and prudential requirements,capital|crr|crd|prudential|leverage|risk-weight
+Liquidity,Funding and liquidity risk,liquidity|lcr|nsfr|funding|stress test
+Data Governance,Data quality, governance, privacy, and reporting data,data quality|governance|privacy|gdpr|reporting
+Outsourcing/Third Party,Third-party and outsourcing arrangements,outsourcing|third party|vendor|service provider|due diligence
+Cyber/Resilience,Cybersecurity and operational resilience,cyber|resilience|ict|dora|security|incident
+Market Integrity,Market abuse and integrity,market abuse|insider|manipulation|mifid|transparency
 
