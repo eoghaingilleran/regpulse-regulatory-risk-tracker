@@ -1,0 +1,8 @@
+obligation_tag,description,example_keywords
+Reporting,New or changed reporting requirement,report|submit|return|disclosure|notify
+RecordKeeping,Record retention or documentation requirements,record|retain|document|evidence|log
+Governance,Governance or accountability requirement,board|senior management|responsibility|oversight|governance
+Controls,Control implementation or testing requirement,control|testing|monitoring|assurance|review
+CustomerComms,Customer communications or disclosures,customer|consumer|disclosure|communications|notice
+Deadline,Implementation date or deadline,deadline|by|no later than|effective date|commence
+Enforcement,Risk of enforcement/sanctions highlighted,enforcement|sanction|fine|penalty|breach
