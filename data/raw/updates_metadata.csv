@@ -1,4 +1,6 @@
-doc_id,date,source,title,file_name
-DOC001,2026-01-01,CBI,Sample notice on governance and reporting,DOC001.txt
-DOC002,2026-01-05,EBA,Sample guideline touching AML controls,DOC002.txt
-DOC003,2026-01-10,ESMA,Sample update on market integrity reporting,DOC003.txt
+"doc_id","date","source","title","file_name"
+"DOC001","2026-01-01","CBI","Sample notice on governance and reporting","DOC001.txt"
+"DOC002","2026-01-05","EBA","Sample guideline touching AML controls","DOC002.txt"
+"DOC003","2026-01-10","ESMA","Sample update on market integrity reporting","DOC003.txt"
+"DOC004","2021-12-01","CBI","Cross-Industry Guidance on Outsourcing","cbi/cross_industry_guidance_outsourcing_2021.txt"
+"DOC005","2019-06-01","EBA","Guidelines on ICT and security risk management (excerpt)","eba/eba_ict_security_guidelines.txt"

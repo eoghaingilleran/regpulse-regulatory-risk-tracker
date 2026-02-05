@@ -1,0 +1,9 @@
+Institutions shall have in place a sound, comprehensive and well-documented ICT risk management framework as part of their overall risk management framework.
+
+Institutions shall identify, classify and manage ICT risks on an ongoing basis. They shall ensure that ICT risks are mitigated through appropriate controls, including preventive and detective measures.
+
+Institutions shall establish clear governance arrangements, including defined roles and responsibilities for the management of ICT and security risks. The management body shall be responsible for setting and overseeing the implementation of the ICT strategy.
+
+Institutions shall implement processes to detect, manage and report ICT-related incidents in a timely manner. Significant incidents shall be reported to the competent authorities without undue delay.
+
+Institutions shall ensure appropriate documentation, testing and review of ICT systems, including business continuity and disaster recovery arrangements.
