@@ -23,3 +23,7 @@ Open the project in RStudio and run:
 
 ## Notes / limitations
 This is intentionally simple and explainable (rules + taxonomy), prioritising traceability over automation.
+## Regulators covered
+- Central Bank of Ireland (CBI)
+- European Banking Authority (EBA)
+- European Securities and Markets Authority (ESMA)
