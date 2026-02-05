@@ -1,1 +1,9 @@
-The guideline addresses AML and CTF controls. Firms must strengthen KYC processes, monitoring, and record keeping. Non-compliance may lead to enforcement action.
+Institutions shall have in place policies and procedures to ensure effective management of money laundering and terrorist financing risks.
+
+Institutions shall conduct customer due diligence measures on a risk-sensitive basis and ensure that customer information is kept up to date.
+
+Institutions shall monitor transactions to identify unusual or suspicious activity and shall submit suspicious transaction reports without delay where required.
+
+Institutions shall ensure appropriate governance and oversight of AML/CFT frameworks, including clear allocation of responsibilities and regular review of controls.
+
+Institutions shall maintain adequate records to demonstrate compliance with AML/CFT obligations and to support supervisory review.

@@ -1,6 +1,6 @@
 "doc_id","date","source","title","risk_categories","obligation_tags","impact_score"
 "DOC001","2026-01-01","CBI","Sample notice on governance and reporting","Operational Risk","Governance; Controls",66
-"DOC002","2026-01-05","EBA","Sample guideline touching AML controls","Data Governance","RecordKeeping; Enforcement",86
+"DOC002","2026-01-05","EBA","Sample guideline touching AML controls","AML/CTF","Governance",63
 "DOC003","2026-01-10","ESMA","Sample update on market integrity reporting","Market Integrity","RecordKeeping",63
 "DOC004","2021-12-01","CBI","Cross-Industry Guidance on Outsourcing","Outsourcing/Third Party; Market Integrity","Reporting; RecordKeeping; Governance; Controls; Deadline; Enforcement",95
 "DOC005","2019-06-01","EBA","Guidelines on ICT and security risk management (excerpt)","Cyber/Resilience; Operational Risk","RecordKeeping; Governance; Enforcement",69
