@@ -1,1 +1,7 @@
-This update relates to market integrity and transparency. Firms must report relevant transactions and maintain records. Monitoring and disclosures are required
+Firms should have effective systems and controls in place to detect and prevent market abuse.
+
+Firms should monitor orders and transactions on an ongoing basis to identify suspicious activity and ensure that surveillance arrangements are proportionate to the nature, scale and complexity of the business.
+
+Where a suspicion of market abuse arises, firms should submit suspicious transaction and order reports without delay and ensure appropriate escalation and governance arrangements.
+
+Firms should maintain appropriate records of orders and transactions and be able to provide information to the competent authority upon request.
